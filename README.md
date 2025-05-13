@@ -36,7 +36,7 @@ Make sure you have the following software installed on your system:
 1. Clone the repository or download the source code:
 
    ```bash
-   git clone https://github.com/Praveenanand333/Task_management
+   git clone https://github.com/lakshsachdevv/task-manager
    ```
 
 2. Navigate to the project directory:
